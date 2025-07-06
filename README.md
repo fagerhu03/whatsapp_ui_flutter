@@ -1,16 +1,27 @@
-# whatsapp
+# 📱 WhatsApp UI Clone (Flutter)
 
-A new Flutter project.
+A pixel-perfect clone of WhatsApp chat UI built with Flutter – replicating WhatsApp’s dark theme, custom chat bubbles, app bar, and message input field.
 
-## Getting Started
+![Demo Screenshot](screenshots/demo.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- WhatsApp-style AppBar with profile, call/video icons
+- Dark mode background with WhatsApp-style wallpaper
+- Incoming/outgoing message bubbles with text and images
+- Input field with camera, mic, and send icons
+- Fully responsive Flutter layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ How to Run Locally
+
+1. Clone the repository or download the ZIP
+2. Open in VS Code or Android Studio
+3. Run:
+
+```bash
+flutter pub get
+flutter run
